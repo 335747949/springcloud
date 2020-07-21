@@ -21,5 +21,4 @@ public class Dept implements Serializable {
     private String dname;
     private String db_source;
 
-
 }

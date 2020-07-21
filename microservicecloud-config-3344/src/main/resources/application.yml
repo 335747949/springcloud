@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ZeroVV/microservicecloud-config.git #GitHub上面的git仓库名字
+          uri: https://github.com/335747949/microservicecloud-config #GitHub上面的git仓库名字
 
 
